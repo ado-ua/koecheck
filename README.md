@@ -1,4 +1,4 @@
 koecheck
 ========
 
-Check for planned electricity disconnections in Kyiv area (mail notification)
+#Check for planned electricity disconnections in Kyiv area (can be used for mail notification)
